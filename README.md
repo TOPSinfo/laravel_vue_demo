@@ -1,6 +1,6 @@
 # Property fair demo
 
-In this project we have used laravel 9, vue 3 and inertia Js for the fullstack development.
+In this project we have used Laravel 9, Vue JS 3, Inertia Js and Tailwind CSS for the fullstack development.
 
 ### Features
 
