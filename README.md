@@ -1,8 +1,6 @@
 # Property fair demo
 
-Note: This project is only for the educational purpose.
-
-In this project I have used laravel 9, vue 3 and inertia Js for the fullstack development.
+In this project we have used laravel 9, vue 3 and inertia Js for the fullstack development.
 
 ### Features
 
